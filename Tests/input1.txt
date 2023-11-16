@@ -1,0 +1,7 @@
+3
+S.Samuel F.Smith F.Brown F.Martinez
+S.Bobby F.Martinez F.Brown F.Smith
+S.John F.Martinez F.Brown F.Smith
+F.Smith S.Samuel S.John S.Bobby
+F.Martinez S.Samuel S.Bobby S.John
+F.Brown S.John S.Samuel S.Bobby

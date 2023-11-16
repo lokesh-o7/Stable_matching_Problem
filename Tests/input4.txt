@@ -1,0 +1,7 @@
+3
+jack sarah alice emily
+ron alice sarah emily
+tony emily sarah alice
+emily ron jack tony
+sarah jack tony ron
+alice tony jack ron

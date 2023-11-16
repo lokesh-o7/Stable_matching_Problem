@@ -1,0 +1,9 @@
+4
+john mary emma jane rose
+ben emma rose jane mary
+tom rose emma jane mary
+harry rose emma jane mary
+rose john ben tom harry
+emma john ben tom harry
+jane john ben tom harry
+mary john ben tom harry
